@@ -1,0 +1,5 @@
+sqlalchemy
+pandas
+db-dtypes
+google-cloud-bigquery
+psycopg2
